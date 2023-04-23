@@ -21,7 +21,7 @@ theme = "diary"
 [params]
 subtitle = "語你同在一起"
 enableAutoDarkMode=true
-favicon = "/images/iconn.ico"
+favicon = "/images/icon.png"
 walineServer = "https://ptc-omment.vercel.app"
 enableReadingTime=true
 
